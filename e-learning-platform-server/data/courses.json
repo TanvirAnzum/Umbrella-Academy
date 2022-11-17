@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Supervised Machine Learning: Regression and Classification",
+    "ratings": 4.9,
+    "instructors": "Andrew Ng",
+    "description": "In the first course of the Machine Learning Specialization, you will:Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn. Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression. ",
+    "duration": "Approx. 33 hours to complete",
+    "language": "English",
+    "participations": "149,918",
+    "price": "100 USD",
+    "imageUrl": "https://www.dropbox.com/s/i50wnkarn79uipu/1.png?raw=1"
+  },
+  {
+    "id": 2,
+    "title": "Data Science: Transformers for Natural Language Processing",
+    "ratings": 4.8,
+    "instructors": "Lazy Programmer Inc",
+    "description": "Hello friends!Welcome to Data Science: Transformers for Natural Language Processing.In this course, you will learn very practical skills for applying transformers, and if you want, detailed theory behind how transformers and attention work.This is different from most other resources, which only cover the former.The course is split into 3 major parts:Using Transformers,Fine-Tuning Transformers,Transformers In-Depth",
+    "duration": "Approx. 18 hours to complete",
+    "language": "English",
+    "participations": "49,918",
+    "price": "79.99 USD",
+    "imageUrl": "https://www.dropbox.com/s/tuesu1ixeagp7s5/2.jpg?raw=1"
+  },
+  {
+    "id": 3,
+    "title": "Natural Language Processing: NLP With Transformers in Python",
+    "ratings": 4.5,
+    "instructors": "James Briggs",
+    "description": "Transformer models are the de-facto standard in modern NLP. They have proven themselves as the most expressive, powerful models for language by a large margin, beating all major language-based benchmarks time and time again.In this course, we cover everything you need to get started with building cutting-edge performance NLP applications using transformer models like Google AI's BERT, or Facebook AI's DPR.",
+    "duration": "Approx. 12 hours to complete",
+    "language": "English",
+    "participations": "90,807",
+    "price": "59.99 USD",
+    "imageUrl": "https://www.dropbox.com/s/8hrm3m27r1cczuw/3.jpg?raw=1"
+  },
+  {
+    "id": 4,
+    "title": "Complete Machine Learning & Data Science Bootcamp 2022",
+    "ratings": 4.6,
+    "instructors": "Andrei Neagoje, Daniel Bourke, Zero To Mastery",
+    "description": "This is a top selling Machine Learning and Data Science course just updated this month with the latest trends and skills for 2022! Become a complete Data Scientist and Machine Learning engineer! Join a live online community of 600,000+ engineers and a course taught by industry experts that have actually worked for large companies in places like Silicon Valley and Toronto. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies. You will go from zero to mastery!",
+    "duration": "Approx. 44 hours to complete",
+    "language": "English",
+    "participations": "200,000",
+    "price": "84.99 USD",
+    "imageUrl": "https://www.dropbox.com/s/ljypa56vauwfyfc/4.jpg?raw=1"
+  },
+  {
+    "id": 5,
+    "title": "Machine Learning in JavaScript with TensorFlow.js",
+    "ratings": 4.4,
+    "instructors": "Justin Emery",
+    "description": "This is the tutorial you've been looking for to become a modern JavaScript machine learning master in 2022. It doesn’t just cover the basics, by the end of the course you will have advanced machine learning knowledge you can use on you resume. From absolute zero knowledge to master - join the TensorFlow.js revolution.This course has been designed by a specialist team of software developers who are passionate about using JavaScript with Machine Learning. We will guide you through complex topics in a practical way, and reinforce learning with in-depth labs and quizzes.",
+    "duration": "Approx. 8 hours to complete",
+    "language": "English",
+    "participations": "50,000",
+    "price": "84.99 USD",
+    "imageUrl": "https://www.dropbox.com/s/d8to0uwy6950zzp/5.png?raw=1"
+  },
+  {
+    "id": 6,
+    "title": "Mathematical Foundations of Machine Learning",
+    "ratings": 4.6,
+    "instructors": "Dr jon Krohn, Ligency Team",
+    "description": "Mathematics forms the core of data science and machine learning. Thus, to be the best data scientist you can be, you must have a working understanding of the most relevant math.Getting started in data science is easy thanks to high-level libraries like Scikit-learn and Keras. But understanding the math behind the algorithms in these libraries opens an infinite number of possibilities up to you. From identifying modeling issues to inventing new and more powerful solutions, understanding the math behind it all can dramatically increase the impact you can make over the course of your career.",
+    "duration": "Approx. 17 hours to complete",
+    "language": "English",
+    "participations": "98,794",
+    "price": "84.99 USD",
+    "imageUrl": "https://www.dropbox.com/s/wsxcbr3lu1azso3/6.jpg?raw=1"
+  },
+  {
+    "id": 7,
+    "title": "Deep Learning A-Z™: Hands-On Artificial Neural Networks",
+    "ratings": 4.5,
+    "instructors": "Kirill Eremenko, Ligency Team",
+    "description": "Artificial intelligence is growing exponentially. There is no doubt about that. Self-driving cars are clocking up millions of miles, IBM Watson is diagnosing patients better than armies of doctors and Google Deepmind's AlphaGo beat the World champion at Go - a game where intuition plays a key role.But the further AI advances, the more complex become the problems it needs to solve. And only Deep Learning can solve such complex problems and that's why it's at the heart of Artificial intelligence.",
+    "duration": "Approx. 23 hours to complete",
+    "language": "English",
+    "participations": "342,125",
+    "price": "84.99 USD",
+    "imageUrl": "https://www.dropbox.com/s/odwjkzhcwjsqrcx/7.svg?raw=1"
+  },
+  {
+    "id": 8,
+    "title": "A Complete Guide on TensorFlow 2.0 using Keras API",
+    "ratings": 4.4,
+    "instructors": "Hadelin de Ponteves",
+    "description": "TensorFlow 2.0 has just been released, and it introduced many features that simplify the model development and maintenance processes. From the educational side, it boosts people's understanding by simplifying many complex concepts. From the industry point of view, models are much easier to understand, maintain, and develop.Deep Learning is one of the fastest growing areas of Artificial Intelligence. In the past few years, we have proven that Deep Learning models, even the simplest ones, can solve very hard and complex tasks. Now, that the buzz-word period of Deep Learning has, partially, passed, people are releasing its power and potential for their product improvements.The course is structured in a way to cover all topics from neural network modeling and training to put it in production.",
+    "duration": "Approx. 23 hours to complete",
+    "language": "English",
+    "participations": "53,092",
+    "price": "84.99 USD",
+    "imageUrl": "https://www.dropbox.com/s/iyao855o29x62om/8.png?raw=1"
+  }
+]
